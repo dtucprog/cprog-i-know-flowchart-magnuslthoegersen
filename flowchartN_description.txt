@@ -1,0 +1,5 @@
+Skal jeg tage cyklen til studie i dag?
+Regner det i dag?
+Hvis det regner vil jeg hellere tage bussen.
+Hvis det ikke regner vil jeg hellere cykle.
+Output hvad jeg burde gøre.
